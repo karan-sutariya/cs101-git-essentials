@@ -1,0 +1,6 @@
+The five git commands that I have learned so far are as follows:
+(1). git clone
+(2). git status
+(3). git remote -v
+(4). git --version
+(5). git commit -m
